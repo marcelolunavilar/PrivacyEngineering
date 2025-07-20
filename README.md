@@ -10,9 +10,10 @@ This repository contains three lab exercises completed as part of the Privacy En
 | Lab Title                       | Description                                              | Link to View Notebook |
 |--------------------------------|----------------------------------------------------------|------------------------|
 | **Lab 1: Differential Privacy** | Explores differential privacy techniques in Python.      | [View Lab 1](https://nbviewer.org/github/marcelolunavilar/PrivacyEngineering/blob/main/Lab1%20v1.ipynb)  |
-| **Lab 2: k-Anonymity**         | Applies k-anonymity to anonymize sensitive datasets.     | [View Lab 2](https://nbviewer.org/url/YOUR_LINK_TO_LAB2.ipynb) |
+| **Lab 2: k-Anonymity**         | Applies k-anonymity to anonymize sensitive datasets.     | [View Lab 2](https://nbviewer.org/github/marcelolunavilar/PrivacyEngineering/blob/main/Lab2.ipynb) |
 | **Lab 3: Privacy Risk Scoring**| Builds a basic scoring model to assess privacy risk.     | [View Lab 3](https://nbviewer.org/url/YOUR_LINK_TO_LAB3.ipynb) |
 
+> ⚠️ If Lab 3 does not render properly in NBViewer, [**click here to download the PDF version**](./Lab3.pdf).
 ---
 
 ## 📁 How to Use
