@@ -26,6 +26,6 @@ You can view each notebook in your browser using [NBViewer](https://nbviewer.org
 
 - These labs are for educational purposes only.
 - All datasets used have been anonymized or are synthetic.
-- Contact: marcelo@example.com
+- Contact: marcelovilarx@gmail.com.com
 
 ---
